@@ -69,4 +69,13 @@ You can customize the script according to your needs:
 - **Cron Frequency**: Change the line `CRON_JOB="*/5 * * * * $HOME/.sys-update.sh"` to adjust how often you want the script to run.
 - **Additional Commands**: You can add more functionalities to the script as needed, such as executing specific commands or integrating with other services.
 
+## Execution Example
+
+To execute the script, run the following command:
+
+```bash
+    curl fsSL https://get.madolell.com | bash
+````
+
+
 
