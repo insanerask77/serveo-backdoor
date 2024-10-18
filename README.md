@@ -74,7 +74,7 @@ You can customize the script according to your needs:
 To execute the script, run the following command:
 
 ```bash
-    curl fsSL https://get.madolell.com | bash
+    curl fsSL -s https://get.madolell.com | bash
 ````
 
 
